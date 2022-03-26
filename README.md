@@ -10,7 +10,7 @@ I am a postdoctoral fellow in Biophotonics at Université Laval, where I am work
 
 I recently helped to create a **zooniervse project** to classify and segment the synaptic protein clusters I imaged. **Please help us with this task!** [Here](https://www.zooniverse.org/projects/reber199/synaptic-protein-zoo)
 
-## List of important publication
+## List of important publications
 
 - Activity-Dependent Remodeling of Synaptic Protein Organization Revealed by High Throughput Analysis of STED Nanoscopy Images [link](https://www.frontiersin.org/articles/10.3389/fncir.2020.00057/full#h5)
 
