@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 # great resource: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 title: "Wiesner Theresa" 
+
+tagline: Wiesner Theresa
+email: theresa.wiesner@gmail.com
+twitter_username: terrymosoly
+twitter:
+  - username: terrymosoly
+description:  This is my personal website to provide you with some general information about my research. Please keep in mind, that this is my very first webpage I build. I therefore ask you for some patience as it is **still under construction**
+author: WiesnerTheresa
