@@ -8,7 +8,7 @@ I am a postdoctoral fellow in Biophotonics at Université Laval, where I am work
 
 ## Important links
 
-I recently helped to create a zooniervse project to classify and segment the synaptic protein clusters I imaged. Please help us with this task! [Here](https://www.zooniverse.org/projects/reber199/synaptic-protein-zoo)
+I recently helped to create a **zooniervse project** to classify and segment the synaptic protein clusters I imaged. **Please help us with this task!** [Here](https://www.zooniverse.org/projects/reber199/synaptic-protein-zoo)
 
 ## List of important publication
 
