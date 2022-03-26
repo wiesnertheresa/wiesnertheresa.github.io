@@ -9,3 +9,44 @@ twitter:
   - username: terrymosoly
 description:  This is my personal website to provide you with some general information about my research. Please keep in mind, that this is my very first webpage I build. I therefore ask you for some patience as it is **still under construction**
 author: WiesnerTheresa
+#baseurl: ""
+#url: ""
+logo: assets/img/unique-logo-white-favicon.png
+favicon: assets/img/unique-logo-white-favicon.png
+
+# Reading Files
+include:
+  - _pages
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      hero_image: /assets/img/SAC_long.png
+
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "collection1"
+#     values:
+#       layout: "page"
+#   - scope:
+#       path: ""
+#       type: "collection1"
+#     values:
+#       layout: "page"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Theme: Bulma Clean Theme
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
