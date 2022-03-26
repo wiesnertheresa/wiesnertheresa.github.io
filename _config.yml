@@ -18,15 +18,15 @@ favicon: assets/img/unique-logo-white-favicon.png
 include:
   - _pages
 
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page
-      hero_image: /assets/img/SAC_long.png
+# # Defaults
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: page
+#       hero_image: /assets/img/SAC_long.png
 
 # defaults:
 #   - scope:
@@ -40,13 +40,13 @@ defaults:
 #     values:
 #       layout: "page"
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# # Build settings
+# markdown: kramdown
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
 
-# Theme: Bulma Clean Theme
-# theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+# # Theme: Bulma Clean Theme
+# # theme: bulma-clean-theme
+# remote_theme: chrisrhymes/bulma-clean-theme
