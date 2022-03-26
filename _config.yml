@@ -11,8 +11,8 @@ description:  This is my personal website to provide you with some general infor
 author: WiesnerTheresa
 #baseurl: ""
 #url: ""
-logo: img/thumbnail_Theresa_Wiesner_crop.png.png
-# favicon: assets/img/unique-logo-white-favicon.png
+logo: img/thumbnail_Theresa_Wiesner_crop.png
+favicon: img/thumbnail_Theresa_Wiesner_crop.png
 
 # Reading Files
 include:
