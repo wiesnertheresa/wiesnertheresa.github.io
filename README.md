@@ -6,6 +6,10 @@ Coming from cancer research with focus on high throughput screening for drug dev
 
 I am a postdoctoral fellow in Biophotonics at Université Laval, where I am working on the development of multimodal super-resolution imaging for live-cell imaging using machine learning. I completed my PhD in Biophotonics under the supervision of Paul De Koninck and Flavie Lavoie-Cardinal in 2021, where I was interested by the quantitative assessment of synaptic plasticity at the molecular scale with multimodal microscopy and computational tools. Before that I completed my master’s degree at Universisté Laval and Université Segalen, in France, and even ealier I did bachelor degree at the University of Perugia, in Italy.
 
+## Important links
+
+I recently helped to create a zooniervse project to classify and segment the synaptic protein clusters I imaged. Please help us with this task! [Here](## List of important publication)
+
 ## List of important publication
 
 - Activity-Dependent Remodeling of Synaptic Protein Organization Revealed by High Throughput Analysis of STED Nanoscopy Images [link](https://www.frontiersin.org/articles/10.3389/fncir.2020.00057/full#h5)
