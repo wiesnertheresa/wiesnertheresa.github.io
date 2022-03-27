@@ -18,15 +18,15 @@ favicon: img/thumbnail_Theresa_Wiesner_crop.png
 include:
   - _pages
 
-# # Defaults
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: page
-#       hero_image: /assets/img/SAC_long.png
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      hero_image: img/thumbnail_Theresa_Wiesner_crop.png
 
 # defaults:
 #   - scope:
