@@ -28,17 +28,17 @@ include:
 #       layout: page
 #       hero_image: img/thumbnail_Theresa_Wiesner_crop.png
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "page"
+#   - scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "page"
 
 # Build settings
 markdown: kramdown
