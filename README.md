@@ -16,6 +16,9 @@ I recently helped to create a **zooniervse project** to classify and segment the
 
 - A machine learning approach for online automated optimization of super-resolution optical microscopy [link](https://www.nature.com/articles/s41467-018-07668-y)
 
+- 
+Conditional reduction of adult neurogenesis impairs bidirectional hippocampal synaptic plasticity [link](https://www.pnas.org/doi/abs/10.1073/pnas.1016928108?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
+
 <!-- You can use the [editor on GitHub](https://github.com/wiesnertheresa/wiesnertheresa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
