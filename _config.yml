@@ -19,26 +19,26 @@ include:
   - _pages
 
 # Defaults
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: page
+#       hero_image: img/thumbnail_Theresa_Wiesner_crop.png
+
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
-      layout: page
-      hero_image: img/thumbnail_Theresa_Wiesner_crop.png
-
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "collection1"
-#     values:
-#       layout: "page"
-#   - scope:
-#       path: ""
-#       type: "collection1"
-#     values:
-#       layout: "page"
+      layout: "page"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 
 # Build settings
 markdown: kramdown
@@ -48,5 +48,5 @@ plugins:
   - jekyll-seo-tag
 
 # Theme: Bulma Clean Theme
-# theme: bulma-clean-theme
+theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
