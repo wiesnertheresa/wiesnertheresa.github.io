@@ -40,13 +40,13 @@ defaults:
 #     values:
 #       layout: "page"
 
-# # Build settings
-# markdown: kramdown
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
-#   - jekyll-seo-tag
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# # Theme: Bulma Clean Theme
-# # theme: bulma-clean-theme
-# remote_theme: chrisrhymes/bulma-clean-theme
+# Theme: Bulma Clean Theme
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
