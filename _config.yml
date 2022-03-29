@@ -1,4 +1,4 @@
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 # great resource: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 title: "Wiesner Theresa" 
 
@@ -12,8 +12,8 @@ author: WiesnerTheresa
 
 
 logo: img/thumbnail_Theresa_Wiesner_crop.png
-favicon: img/IMG_3594.JPG
-background-image: img/IMG_3594.jpg
+favicon: img/thumbnail_Theresa_Wiesner_crop.png
+background-image: img/thumbnail_Theresa_Wiesner_crop.png
 
 # Reading Files
 include:
@@ -27,7 +27,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: img/IMG_3594.JPG
+      hero_image: img/thumbnail_Theresa_Wiesner_crop.png
 
 # defaults:
 #   - scope:
