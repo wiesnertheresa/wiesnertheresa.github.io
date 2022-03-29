@@ -10,7 +10,7 @@ I am a postdoctoral fellow in Biophotonics at Université Laval, where I am work
 
 ## Important links
 
-I recently helped to create a **zooniervse project: The Synaptic Protein Zoo !** to classify and segment the synaptic protein clusters I imaged. **Please help us with this task!** [Here](https://www.zooniverse.org/projects/reber199/synaptic-protein-zoo)
+I recently helped to create a **zooniervse project: The Synaptic Protein Zoo ** to classify and segment the synaptic protein clusters I imaged. **Please help us with this task!** [Here](https://www.zooniverse.org/projects/reber199/synaptic-protein-zoo)
 
 ## List of important publications
 
@@ -19,6 +19,17 @@ I recently helped to create a **zooniervse project: The Synaptic Protein Zoo !**
 - [A machine learning approach for online automated optimization of super-resolution optical microscopy](https://www.nature.com/articles/s41467-018-07668-y)
 
 - [Conditional reduction of adult neurogenesis impairs bidirectional hippocampal synaptic plasticity](https://www.pnas.org/doi/abs/10.1073/pnas.1016928108?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
+
+## Would you rather watch my talks?
+[Optical and quantitative assessment of activity-dependent modulation of synaptic activity. UNIQUE Student Symposium online, USS2021 (2021)](https://www.youtube.com/watch?v=GW4bK8nY2Go&list=UUOoOsSZfudHl5vcUnCE3jrA&index=15)
+
+[Detection of miniature synaptic calcium transient plasticity with positive unlabeled learning. UNIQUE Student Symposium online, USS2020 (2020) (starting from 25:00)](https://www.youtube.com/watch?v=_8nqyC4UUqo&t=1852s)
+
+[CERVOTube 2020: How we learn, resolving nanoscale learning. 2020](https://www.youtube.com/watch?v=2O50ttUVgxg)
+
+
+
+
 
 <!-- You can use the [editor on GitHub](https://github.com/wiesnertheresa/wiesnertheresa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
