@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 # great resource: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 title: "Wiesner Theresa" 
 
@@ -49,3 +49,4 @@ plugins:
   - jekyll-seo-tag
 
 
+remote_theme: chrisrhymes/bulma-clean-theme
