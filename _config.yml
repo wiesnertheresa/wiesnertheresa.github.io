@@ -14,19 +14,19 @@ author: WiesnerTheresa
 logo: img/thumbnail_Theresa_Wiesner_crop.png
 favicon: img/IMG_3594.JPG
 
-# # Reading Files
-# include:
-#   - _pages
+# Reading Files
+include:
+  - _pages
 
-# Defaults
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: page
-#       hero_image: img/thumbnail_Theresa_Wiesner_crop.png
+Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      hero_image: img/IMG_3594.JPG
 
 # defaults:
 #   - scope:
