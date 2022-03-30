@@ -19,27 +19,24 @@ background-image: img/thumbnail_Theresa_Wiesner_crop.png
 include:
   - _pages
 
-# Defaults
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: page
-#       hero_image: img/thumbnail_Theresa_Wiesner_crop.png
+# Collections
+collections:
+  playground:
+    output: true
+    permalink: /:collection/:path/
+#   collection2:
+#     output: true
+#     permalink: /:collection/:path/
 
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: "page"
-#   - scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: "page"
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      hero_image: img/thumbnail_Theresa_Wiesner_crop.png
 
 # Build settings
 markdown: kramdown
