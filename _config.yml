@@ -11,32 +11,32 @@ description: This is my personal website to provide you with some general inform
 author: WiesnerTheresa
 
 
-logo: img/IMG_3594.JPG #thumbnail_Theresa_Wiesner_crop.png
+logo: img/thumbnail_Theresa_Wiesner_crop.png
 favicon: img/thumbnail_Theresa_Wiesner_crop.png
-background-image: img/IMG_3594.JPG
+# background-image: img/IMG_3594.JPG
 
-# Reading Files
-include:
-  - _pages
+# # Reading Files
+# include:
+#   - _pages
 
-# Collections
-collections:
-  playground:
-    output: true
-    permalink: /:collection/:path/
-#   collection2:
+# # Collections
+# collections:
+#   playground:
 #     output: true
 #     permalink: /:collection/:path/
+# #   collection2:
+# #     output: true
+# #     permalink: /:collection/:path/
 
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page
-      hero_image: img/thumbnail_Theresa_Wiesner_crop.png
+# # Defaults
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: page
+#       hero_image: img/thumbnail_Theresa_Wiesner_crop.png
 
 # Build settings
 markdown: kramdown
@@ -46,4 +46,4 @@ plugins:
   - jekyll-seo-tag
 
 
-remote_theme: chrisrhymes/bulma-clean-theme
+# remote_theme: chrisrhymes/bulma-clean-theme
