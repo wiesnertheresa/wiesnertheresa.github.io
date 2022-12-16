@@ -6,7 +6,7 @@ Coming from cancer research with focus on high throughput screening for drug dev
 
 ## Short Biography
 
-I am a postdoctoral fellow in Biophotonics at Université Laval, where I am working on the development of multimodal super-resolution imaging for live-cell imaging using machine learning. I completed my PhD in Biophotonics under the supervision of Paul De Koninck and Flavie Lavoie-Cardinal in 2021, where I was interested by the quantitative assessment of synaptic plasticity at the molecular scale with multimodal microscopy and computational tools. Before that I completed my master’s degree at Universisté Laval and Université Segalen, in France, and even ealier I did bachelor degree at the University of Perugia, in Italy.
+I am a postdoctoral fellow in Biophotonics at Université Laval, where I am working on the development of multimodal super-resolution imaging for live-cell imaging using machine learning. I completed my PhD in Biophotonics under the supervision of Paul De Koninck and Flavie Lavoie-Cardinal in 2021, where I was interested by the quantitative assessment of synaptic plasticity at the molecular scale with multimodal microscopy and computational tools. Before that I completed my master’s degree at Universisté Laval and Université Segalen, in France, and even earlier I did bachelor degree at the University of Perugia, in Italy.
 
 ## Important links
 
