@@ -16,7 +16,7 @@ Previously, I was a 1-year long postdoctoral fello in Biophotonics at Universit√
 
 - [Activity-Dependent Remodeling of Synaptic Protein Organization Revealed by High Throughput Analysis of STED Nanoscopy Images](https://www.frontiersin.org/articles/10.3389/fncir.2020.00057/full#h5)
 
-- [Resolution enhancement with a task-assisted GAN to guide optical nanoscopy image analysis and acquisition]([https://www.nature.com/articles/s42256-023-00689-3])
+- [Resolution enhancement with a task-assisted GAN to guide optical nanoscopy image analysis and acquisition](https://www.nature.com/articles/s42256-023-00689-3)
 
 - [A machine learning approach for online automated optimization of super-resolution optical microscopy](https://www.nature.com/articles/s41467-018-07668-y)
 
