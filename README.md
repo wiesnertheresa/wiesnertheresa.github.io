@@ -7,7 +7,7 @@ Being a scientist for me is not a job, but a lifestyle in which I can be continu
 
 ## Short Biography
 
-I am a postdoctoral fellow in the NeuroCyto team at the Institute of NeuroPathoPhysiology (INP) in Marseille, France (https://www.neurocytolab.org/). Here I am study the role of actin/spectrin submembrane scaffold in axonal shaft exocytosis by combining live-cell and super-resolution microscopy.
+I am a postdoctoral fellow in the [NeuroCyto team](https://www.neurocytolab.org/) at the Institute of NeuroPathoPhysiology (INP) in Marseille, France. Here I am study the role of actin/spectrin submembrane scaffold in axonal shaft exocytosis by combining live-cell and super-resolution microscopy.
 
 Previously, I was a 1-year long postdoctoral fello in Biophotonics at Université Laval, Quebec, Canada. There I worked on the development of multimodal super-resolution imaging for live-cell imaging using machine learning. I completed my PhD in Biophotonics under the supervision of Paul De Koninck and Flavie Lavoie-Cardinal in 2021, where I was interested by the quantitative assessment of synaptic plasticity at the molecular scale with multimodal microscopy and computational tools. Before that I completed my master’s degree at Universisté Laval and Université Segalen, in France, and even earlier I did bachelor degree at the University of Perugia, in Italy.
 
