@@ -21,6 +21,8 @@ Previously, I completed my [Ph.D.](https://corpus.ulaval.ca/entities/publication
 
 - [Conditional reduction of adult neurogenesis impairs bidirectional hippocampal synaptic plasticity](https://www.pnas.org/doi/abs/10.1073/pnas.1016928108?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
 
+- full list : [orcid](https://orcid.org/0000-0001-5620-2945)
+
 ## Would you like to see some of my Ph.D. data?
 
 My data are used in the  **zooniervse project: The Synaptic Protein Zoo** to classify and segment the synaptic protein clusters.
